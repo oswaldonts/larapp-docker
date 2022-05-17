@@ -24,14 +24,14 @@ services:
             - 80:80
     # Database
     database:
-        image: mariadb:10.7
+        image: mysql:8.0
         volumes:
-            - larapp-dbdata:/var/lib/mysql
+            - dbdata:/var/lib/mysql
         environment:
-            MARIADB_DATABASE: ${DB_DATABASE}
-            MARIADB_ROOT_PASSWORD: ${DB_PASSWORD}
-            MARIADB_PASSWORD: ${DB_PASSWORD}
-            MARIADB_USER: ${DB_USERNAME}
+            MYSQL_DATABASE: ${DB_DATABASE}
+            MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+            MYSQL_USER: ${DB_USERNAME}
+            MYSQL_PASSWORD: ${DB_PASSWORD}
         ports:
             - 3306:3306
     # Database management
@@ -48,4 +48,4 @@ services:
         ports:
             - 8888:80
 volumes:
-    larapp-dbdata:
+    dbdata:
