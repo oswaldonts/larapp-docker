@@ -1,0 +1,22 @@
+[
+    {
+      "name": "None",
+      "code": 0
+    },
+    {
+      "name": "Primary",
+      "code": 1
+    },
+    {
+      "name": "Special",
+      "code": 2
+    },
+    {
+      "name": "Heavy",
+      "code": 3
+    },
+    {
+      "name": "Unknown",
+      "code": 4
+    }
+  ]

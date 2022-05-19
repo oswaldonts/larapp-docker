@@ -1,0 +1,18 @@
+[
+    {
+      "name": "Titan",
+      "code": 0
+    },
+    {
+      "name": "Hunter",
+      "code": 1
+    },
+    {
+      "name": "Warlock",
+      "code": 2
+    },
+    {
+      "name": "Unknown",
+      "code": 3
+    }
+  ]

@@ -1,0 +1,126 @@
+[
+    {
+      "name": "None",
+      "code": 0
+    },
+    {
+      "name": "Crucible",
+      "code": 1
+    },
+    {
+      "name": "Vanguard",
+      "code": 2
+    },
+    {
+      "name": "Exotic",
+      "code": 5
+    },
+    {
+      "name": "AutoRifle",
+      "code": 6
+    },
+    {
+      "name": "Shotgun",
+      "code": 7
+    },
+    {
+      "name": "Machinegun",
+      "code": 8
+    },
+    {
+      "name": "HandCannon",
+      "code": 9
+    },
+    {
+      "name": "RocketLauncher",
+      "code": 10
+    },
+    {
+      "name": "FusionRifle",
+      "code": 11
+    },
+    {
+      "name": "SniperRifle",
+      "code": 12
+    },
+    {
+      "name": "PulseRifle",
+      "code": 13
+    },
+    {
+      "name": "ScoutRifle",
+      "code": 14
+    },
+    {
+      "name": "Crm",
+      "code": 16
+    },
+    {
+      "name": "Sidearm",
+      "code": 17
+    },
+    {
+      "name": "Sword",
+      "code": 18
+    },
+    {
+      "name": "Mask",
+      "code": 19
+    },
+    {
+      "name": "Shader",
+      "code": 20
+    },
+    {
+      "name": "Ornament",
+      "code": 21
+    },
+    {
+      "name": "FusionRifleLine",
+      "code": 22
+    },
+    {
+      "name": "GrenadeLauncher",
+      "code": 23
+    },
+    {
+      "name": "SubmachineGun",
+      "code": 24
+    },
+    {
+      "name": "TraceRifle",
+      "code": 25
+    },
+    {
+      "name": "HelmetArmor",
+      "code": 26
+    },
+    {
+      "name": "GauntletsArmor",
+      "code": 27
+    },
+    {
+      "name": "ChestArmor",
+      "code": 28
+    },
+    {
+      "name": "LegArmor",
+      "code": 29
+    },
+    {
+      "name": "ClassArmor",
+      "code": 30
+    },
+    {
+      "name": "Bow",
+      "code": 31
+    },
+    {
+      "name": "DummyRepeatableBounty",
+      "code": 32
+    },
+    {
+      "name": "Glaive",
+      "code": 33
+    }
+  ]

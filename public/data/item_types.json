@@ -1,0 +1,114 @@
+[
+    {
+      "name": "None",
+      "code": 0
+    },
+    {
+      "name": "Currency",
+      "code": 1
+    },
+    {
+      "name": "Armor",
+      "code": 2
+    },
+    {
+      "name": "Weapon",
+      "code": 3
+    },
+    {
+      "name": "Message",
+      "code": 7
+    },
+    {
+      "name": "Engram",
+      "code": 8
+    },
+    {
+      "name": "Consumable",
+      "code": 9
+    },
+    {
+      "name": "ExchangeMaterial",
+      "code": 10
+    },
+    {
+      "name": "MissionReward",
+      "code": 11
+    },
+    {
+      "name": "QuestStep",
+      "code": 12
+    },
+    {
+      "name": "QuestStepComplete",
+      "code": 13
+    },
+    {
+      "name": "Emblem",
+      "code": 14
+    },
+    {
+      "name": "Quest",
+      "code": 15
+    },
+    {
+      "name": "Subclass",
+      "code": 16
+    },
+    {
+      "name": "ClanBanner",
+      "code": 17
+    },
+    {
+      "name": "Aura",
+      "code": 18
+    },
+    {
+      "name": "Mod",
+      "code": 19
+    },
+    {
+      "name": "Dummy",
+      "code": 20
+    },
+    {
+      "name": "Ship",
+      "code": 21
+    },
+    {
+      "name": "Vehicle",
+      "code": 22
+    },
+    {
+      "name": "Emote",
+      "code": 23
+    },
+    {
+      "name": "Ghost",
+      "code": 24
+    },
+    {
+      "name": "Package",
+      "code": 25
+    },
+    {
+      "name": "Bounty",
+      "code": 26
+    },
+    {
+      "name": "Wrapper",
+      "code": 27
+    },
+    {
+      "name": "SeasonalArtifact",
+      "code": 28
+    },
+    {
+      "name": "Finisher",
+      "code": 29
+    },
+    {
+      "name": "Pattern",
+      "code": 30
+    }
+  ]

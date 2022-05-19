@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Unknown",
+      "code": 0
+    },
+    {
+      "name": "Currency",
+      "code": 1
+    },
+    {
+      "name": "Basic",
+      "code": 2
+    },
+    {
+      "name": "Common",
+      "code": 3
+    },
+    {
+      "name": "Rare",
+      "code": 4
+    },
+    {
+      "name": "Legendary",
+      "code": 5
+    },
+    {
+      "name": "Exotic",
+      "code": 6
+    }
+  ]

@@ -1,0 +1,30 @@
+[
+    {
+      "name": "None",
+      "code": 0
+    },
+    {
+      "name": "Kinetic",
+      "code": 1
+    },
+    {
+      "name": "Arc",
+      "code": 2
+    },
+    {
+      "name": "Solar",
+      "code": 3
+    },
+    {
+      "name": "Void",
+      "code": 4
+    },
+    {
+      "name": "Raid",
+      "code": 5
+    },
+    {
+      "name": "Stasis",
+      "code": 6
+    }
+  ]
